@@ -2,7 +2,7 @@
 
 My name is Owen, and this is my first repository!
 
-Eventually, this will be a professional portfolio with a bunch of cool programs that I have made over the years.
+Eventually, this will be a professional portfolio with a bunch of programs that I have worked on over the years.
 
 For now, though, I'll just post a few things and make it look pretty later.
 
