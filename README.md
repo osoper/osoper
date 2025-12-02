@@ -1,10 +1,10 @@
-## Hi there 👋
+## Welcome 👋
 
-My name is Owen, and this is my first repository!
+My name is Owen, and this is my first repository.
 
-Eventually, this will be a professional portfolio with a bunch of programs that I have worked on over the years.
+Eventually, it will be a professional portfolio with a bunch of programs that I have worked on over the years.
 
-For now, though, I'll just post a few things and make it look pretty later.
+For now, though, I'll just post a few things and make it look good later.
 
 ## Programming Experience 🖥️
 
@@ -15,6 +15,7 @@ VBA | Python | Java
 
 <b> <1-3 Months Experience: </b><br>
 SQL | R | AMPL | HTML
+
 <!--
 **osoper/osoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
