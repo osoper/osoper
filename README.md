@@ -1,20 +1,16 @@
 ## Welcome 👋
 
-My name is Owen, and this is my first repository.
+My name is Owen, and this is my coding portfolio.
 
-Eventually, it will be a professional portfolio with a bunch of programs that I have worked on over the years.
+I am most proficient in Python and VBA, so a few project highlights in those languages are posted here.
 
-For now, though, I'll just post a few things and make it look good later.
+## Experience 🖥️
 
-## Programming Experience 🖥️
+<b> 1-3 Years Experience: </b><br>
+Python | VBA | Java
 
-Here are the programming languages that I have used:
-
-<b> 6-12+ Months Experience: </b><br>
-VBA | Python | Java
-
-<b> <1-3 Months Experience: </b><br>
-SQL | R | AMPL | HTML
+<b> 3-6 Months Experience: </b><br>
+SQL | R | HTML | AMPL | Power BI DAX
 
 <!--
 **osoper/osoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
